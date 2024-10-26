@@ -8,7 +8,7 @@ Contoh proyek sederhana yang menggunakan HTML, CSS, dan JavaScript untuk membuat
 - Interaksi dasar dengan JavaScript
 - Desain yang bersih dan modern
 
-## Teknologi yang Digunakan
+## Bahasa yang Digunakan
 
 - HTML5
 - CSS3
