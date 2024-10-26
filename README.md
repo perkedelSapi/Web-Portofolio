@@ -1,6 +1,8 @@
-# Proyek web portoflio smk
+# Proyek web portofolio SMK
 
-Contoh proyek sederhana yang menggunakan HTML, CSS, dan JavaScript untuk membuat halaman web yang responsif.
+Lihat website langsung di: [https://perkedelsapi.github.io/](https://perkedelsapi.github.io/)
+
+
 
 ## Fitur
 
