@@ -1,6 +1,6 @@
 # Proyek web portofolio SMK
 
-Lihat website langsung di: [https://perkedelsapi.github.io/](https://perkedelsapi.github.io/)
+Lihat website langsung di: [https://perkedelsapi.github.io/](https://perkedelsapi.github.io/Web-Portofolio/)
 
 
 
